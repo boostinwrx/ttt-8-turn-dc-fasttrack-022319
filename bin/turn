@@ -1,6 +1,4 @@
 #!/usr/bin/env ruby
 require_relative '../lib/turn'
-#display_board
-#valid_move?
-#position_taken?
-#move
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+ 
